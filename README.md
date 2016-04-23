@@ -1,8 +1,8 @@
-## advanced-project
+## data-project
 
-### April 20, 2016
+### April 23, 2016
 
-Advanced project for core working dir
+Data project for managing data
 
 Created a branch called java project
 
@@ -10,4 +10,4 @@ Created a branch called java project
 * Java 7
 * Maven
 
-[Mikias Ayalew](http://sqasolution.com)
+[jayabhanu](http://salceforce.com)
