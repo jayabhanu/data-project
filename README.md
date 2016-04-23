@@ -1,6 +1,6 @@
-## data-project
+## advanced-project
 
-### April 23, 2016
+### April 20, 2016
 
 Data project for managing data
 
@@ -10,4 +10,4 @@ Created a branch called java project
 * Java 7
 * Maven
 
-[jayabhanu](http://salceforce.com)
+[mick](http://sqasolution.com)
