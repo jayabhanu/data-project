@@ -1,11 +1,11 @@
-## basic-auto-project
+## data-project
 
-### April 20, 2016
+### April 23, 2016
 
-For automation projects
+For data projects
 
 * git 
 * Java 7
 * Maven
 
-[Mikias Ayalew](http://sqasolution.com)
+[jayabhanu](http://salceforce.com)
